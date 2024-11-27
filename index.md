@@ -1,24 +1,38 @@
 ---
 layout: default
-title: Chulapa on remote
+title: Vokasi Seed
 header_type: hero
-subtitle: Starter pack
+subtitle: Mitra Produksi Benih Unggul dan Berkualitas
 ---
 
-Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
+# Selamat Datang di Vokasi Seed – Penyedia Benih Berkualitas untuk Masa Depan Pertanian Anda!
 
-Contains basic configuration to get you a site with:
+**Apakah Anda mencari benih unggul untuk meningkatkan hasil pertanian Anda?** Di Vokasi Seed, kami memahami pentingnya kualitas benih dalam menentukan kesuksesan panen Anda. Dengan pengalaman dan keahlian di bidang pertanian, kami hadir untuk menyediakan benih yang tidak hanya berkualitas tinggi, tetapi juga sesuai dengan kebutuhan spesifik Anda.
 
-- Sample posts and [paginated blog index](./blog/).
-- Sample collection with Markdown and kramdown cheatsheets and [collection index](./cheatsheets).
-- Archive pages for posts grouped by year, category, and tag.
-- Demo page with the different Bootstrap components and how they look with the actual skin settings.
-- Sample 404 page.
-- Site search with Lunr.
-- Sample `_config` with minimal configuration. `primary` color is set to <span class="text-primary">LightSkyBlue</span> and `autothemer` is enabled. [Learn how to customize your site](https://dieghernan.github.io/chulapa/docs/03-theming).
-- Sample `algolia-search.yml` for using Algolia+GitHub Actions.
-- Sample files for extending the theme with your own scripts and css.
+## Mengapa Memilih Vokasi Seed?
 
-On addition, `jekyll-sitemap` generates your sitemap on [./sitemap.xml](./sitemap.xml), and Chulapa generates an Atom feed on [./atom.xml](./atom.xml) and a RSS 2.0 feed on [./rss.xml](./rss.xml).
+- **Benih Unggul**: Kami menawarkan berbagai jenis benih unggul yang telah teruji dan terbukti memberikan hasil optimal. Setiap varietas kami dipilih dengan cermat untuk memastikan ketahanan dan produktivitas.
 
-[Configure as necessary](https://dieghernan.github.io/chulapa/docs/02-config) and replace sample content with your own.
+- **Inovasi Pertanian**: Vokasi Seed berkomitmen untuk menghadirkan teknologi terbaru dalam produksi benih. Kami terus melakukan penelitian dan pengembangan untuk memberikan solusi terbaik bagi petani.
+
+- **Dukungan Pelanggan**: Tim ahli kami siap membantu Anda dalam memilih benih yang tepat dan memberikan saran teknis untuk memaksimalkan hasil panen Anda. Kami percaya bahwa kesuksesan Anda adalah kesuksesan kami juga.
+
+- **Sustainability**: Kami peduli terhadap lingkungan. Proses produksi benih kami menerapkan praktik berkelanjutan untuk menjaga ekosistem dan mendukung pertanian yang ramah lingkungan.
+
+## Produk Kami
+
+- **Benih Padi**: Varietas unggul yang tahan terhadap hama dan penyakit, serta memiliki hasil panen yang tinggi.
+- **Benih Sayuran**: Beragam pilihan sayuran segar yang kaya nutrisi dan mudah dibudidayakan.
+- **Benih Buah**: Varietas buah berkualitas yang menjanjikan rasa lezat dan hasil yang melimpah.
+
+## Testimoni Pelanggan
+
+> _"Saya sangat puas dengan benih dari Vokasi Seed. Hasil panen tahun ini meningkat pesat!"_ – Budi, Petani Padi
+
+> _"Benih sayuran dari Vokasi Seed sangat berkualitas. Saya tidak pernah kecewa!"_ – Siti, Petani Sayuran
+
+## Bergabunglah Bersama Kami!
+
+Jangan lewatkan kesempatan untuk meningkatkan produktivitas pertanian Anda dengan benih berkualitas dari Vokasi Seed. Kunjungi website kami di [vokasi-seed.github.io](http://vokasi-seed.github.io) untuk informasi lebih lanjut, atau hubungi kami di [nomor kontak] untuk konsultasi gratis.
+
+**Vokasi Seed – Benih Berkualitas untuk Masa Depan Pertanian yang Lebih Baik!**
