@@ -7,7 +7,7 @@ subtitle: Mitra Produksi Benih Unggul dan Berkualitas
 tags: [layout-minimal,header-splash, image, project-links, bootstrap]
 project_links:
     - url: https://startbootstrap.com/previews/one-page-wonder/
-      label: Our Products
+      label: Produk dan Layanan
 show_sociallinks  : true
 show_tags         : true
 show_categories   : true
