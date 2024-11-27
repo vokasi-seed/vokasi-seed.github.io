@@ -1,7 +1,7 @@
 ---
-layout: landingpage
+layout: minimal
 title: Vokasi Seed
-header_type: hero
+header_type: splash
 header_img: /assets/img/background-seed.jpg
 subtitle: Mitra Produksi Benih Unggul dan Berkualitas
 show_sociallinks  : true
@@ -10,6 +10,9 @@ show_categories   : true
 show_bottomnavs   : true
 show_author: true
 
+project_links:
+    - url: https://google.com
+      label: Produk dan Layanan Kami
 ---
 
 # Selamat Datang di Vokasi Seed – Penyedia Benih Berkualitas untuk Masa Depan Pertanian Anda!
