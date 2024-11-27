@@ -1,7 +1,7 @@
 ---
 layout: minimal
 title: Vokasi Seed
-header_type: splash
+header_type: hero
 header_img: /assets/img/background-seed.jpg
 subtitle: Mitra Produksi Benih Unggul dan Berkualitas
 show_sociallinks  : true
