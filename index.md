@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: landingpage
 title: Vokasi Seed
 header_type: image
 header_img: /assets/img/background-seed.jpg
