@@ -9,7 +9,6 @@ show_tags         : true
 show_categories   : true
 show_bottomnavs   : true
 show_author: true
-
 project_links:
     - url: https://google.com
       label: Produk dan Layanan Kami
