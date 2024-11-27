@@ -142,7 +142,7 @@ googlefonts:
 # Theme and colors
 chulapa-skin: 
   highlight     :  # default["default"]
-  skin         :  gitdev # Optional predefined skins
+  skin         :  twitter-dim # Optional predefined skins
   autothemer    :  true # Bool: Use autotheming
   vars          :    
     primary     : "#ffbe98" #default ["#007bff"] - Bootstrap blue
