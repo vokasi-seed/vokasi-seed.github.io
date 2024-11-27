@@ -9,9 +9,6 @@ show_tags         : true
 show_categories   : true
 show_bottomnavs   : true
 show_author: true
-project_links:
-    - url: https://google.com
-      label: Produk dan Layanan Kami
 ---
 
 # Selamat Datang di Vokasi Seed – Penyedia Benih Berkualitas untuk Masa Depan Pertanian Anda!
