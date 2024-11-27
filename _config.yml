@@ -113,8 +113,7 @@ navbar:
         url   : /current-skin
   - title   : Docs
     url     : https://dieghernan.github.io/chulapa/docs/01-install
-  - title   : Use this template
-    url     : https://github.com/dieghernan/chulapa-101/generate
+
 #  - title   : # Label submenu
 #    child:		
 #    - title: # Child label		
@@ -124,12 +123,15 @@ navbar:
 #Social links to be placed on your site footer
 footer:
   links:
-    - label : Repo on Github # Label
-      icon  : fab fa-github # Fontawesome 5 icon
-      url   : https://github.com/dieghernan/chulapa-101 # A link or email: https://twitter.com/jack, mail@example.com
+    - label : e-mail kami # Label
+      icon  : "fa-solid fa-envelope" # Fontawesome 5 icon
+      url   : https://google.com # A link or email: https://twitter.com/jack, mail@example.com
     - label: "RSS"
       icon: "fa fa-rss"
       url:  "./atom.xml"
+    - label: "IG"
+      icon: "fa-brands fa-square-instagram"
+      url:  "https://www.instagram.com/sekolahvokasiipb"
   copyright: # default is © <year> <name> 
   
 # C. Theme Settings
