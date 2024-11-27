@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: landingpage
 title: Vokasi Seed
 header_type: hero
 header_img: /assets/img/background-seed.jpg
