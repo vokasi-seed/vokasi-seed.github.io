@@ -109,7 +109,7 @@ navbar:
         url   : /categories
       - title : Produksi Plantlet
         url   : /archive
-  - title   : Contact Us
+  - title   : Hubungi kami
     url     : https://dieghernan.github.io/chulapa/docs/01-install
 
 #  - title   : # Label submenu
