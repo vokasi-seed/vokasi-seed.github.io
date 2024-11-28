@@ -97,17 +97,17 @@ navbar:
     url     :  # default["url/baseurl"]
     img     :  # An small image, try 30x30px
   nav:
-  - title   : About # Label
+  - title   : Tentang Kami # Label
     url     : /blog/ # url	
-  - title   : Gallery
+  - title   : Galeri
     url     : /cheatsheets
-  - title   : Our Products
+  - title   : Layanan Kami
     child   :
-      - title : Seed Production
+      - title : Produksi Benih
         url   : /tags
-      - title : Seed Certification
+      - title : Sertifikasi Benih
         url   : /categories
-      - title : Plantlet Production
+      - title : Produksi Plantlet
         url   : /archive
   - title   : Contact Us
     url     : https://dieghernan.github.io/chulapa/docs/01-install
