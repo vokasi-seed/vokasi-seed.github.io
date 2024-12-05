@@ -1,8 +1,8 @@
 ---
 layout: indexcategory
-title: "Galeri"
-include_collection: Galeri
-permalink: /galeri
+title: "Cheatsheets"
+include_collection: Cheatsheets
+permalink: /cheatsheets
 show_breadcrumb: true
 ---
 
