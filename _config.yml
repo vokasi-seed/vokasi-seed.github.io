@@ -100,7 +100,7 @@ navbar:
   - title   : Tentang Kami # Label
     url     : /blog/ # url	
   - title   : Galeri
-    url     : /Galeri
+    url     : /cheatsheets
   - title   : Layanan Kami
     child   :
       - title : Produksi Benih
@@ -203,8 +203,8 @@ defaults:
       include_on_search : true
       show_breadcrumb   : true
       breadcrumb_list   :
-        - label: Galeri
-          url: /Galeri
+        - label: cheatsheets
+          url: /cheatsheets
 
 
 # XX. Other settings - no need to modify
