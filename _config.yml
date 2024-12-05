@@ -100,7 +100,7 @@ navbar:
   - title   : Tentang Kami # Label
     url     : /blog/ # url	
   - title   : Galeri
-    url     : /cheatsheets
+    url     : /Galeri
   - title   : Layanan Kami
     child   :
       - title : Produksi Benih
@@ -156,7 +156,7 @@ paginator_maxnum: 3  #default[3] Custom: max of number to be displayed on the pa
 collections:
   cheatsheet:
     output: true
-    permalink: /cheatsheets/:name
+    permalink: /Galeri/:name
 collections_dir     : 
 permalink           : /:year:month:day_:title/
 
@@ -204,8 +204,7 @@ defaults:
       show_breadcrumb   : true
       breadcrumb_list   :
         - label: Galeri
-          url: /cheatsheets
-
+          url: /Galeri
 
 # XX. Other settings - no need to modify
 # HTML Compression
