@@ -5,7 +5,7 @@ header_type: splash
 header_img: /assets/img/background-seed.jpg
 subtitle: Mitra Produksi Benih Unggul dan Berkualitas
 project_links:
-    - url: https://startbootstrap.com/previews/one-page-wonder/](https://vokasi-seed.github.io/blog/
+    - url: https://vokasi-seed.github.io/blog/
       label: Produk dan Layanan
 show_sociallinks  : true
 show_tags         : true
