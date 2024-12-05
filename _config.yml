@@ -203,7 +203,7 @@ defaults:
       include_on_search : true
       show_breadcrumb   : true
       breadcrumb_list   :
-        - label: Cheatsheets
+        - label: Galeri
           url: /cheatsheets
 
 
