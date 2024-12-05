@@ -1,5 +1,5 @@
 ---
-layout: indexcategory
+layout: cloudtag
 title: "Galeri"
 permalink: /galeri
 show_breadcrumb: true
