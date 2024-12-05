@@ -1,7 +1,6 @@
 ---
 layout: indexcategory
 title: "Galeri"
-include_collection: Galeri
 permalink: /galeri
 show_breadcrumb: true
 ---
