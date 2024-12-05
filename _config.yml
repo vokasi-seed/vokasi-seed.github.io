@@ -156,7 +156,7 @@ paginator_maxnum: 3  #default[3] Custom: max of number to be displayed on the pa
 collections:
   cheatsheet:
     output: true
-    permalink: /cheatsheets/:name
+    permalink: /galeri
 collections_dir     : 
 permalink           : /:year:month:day_:title/
 
