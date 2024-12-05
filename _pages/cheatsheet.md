@@ -1,9 +1,9 @@
 ---
 layout: indexcategory
-title: "Cheatsheets"
-include_collection: cheatsheet
-permalink: /cheatsheets
+title: "Galeri"
+include_collection: Galeri
+permalink: /galeri
 show_breadcrumb: true
 ---
 
-If it is first time using `markdown` and `jekyll`, you may find this pages useful.
+Komitmen kami dengan berbagai mitra
