@@ -156,7 +156,7 @@ paginator_maxnum: 3  #default[3] Custom: max of number to be displayed on the pa
 collections:
   cheatsheet:
     output: true
-    permalink: /Galeri/:name
+    permalink: /cheatsheets/:name
 collections_dir     : 
 permalink           : /:year:month:day_:title/
 
@@ -205,6 +205,7 @@ defaults:
       breadcrumb_list   :
         - label: Galeri
           url: /Galeri
+
 
 # XX. Other settings - no need to modify
 # HTML Compression
