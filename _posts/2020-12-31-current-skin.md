@@ -1,10 +1,10 @@
 ---
 header_type: "hero"
 header_img : "https://picsum.photos/id/1018/2000/2000"
-title: Current skin
-subtitle: Showing al the different Bootstrap components available
-last_modified_at: 2021-02-03
-tags: [skin, bootstrap, current-theme, header-hero, image, demo]
+title: Produksi Benih
+subtitle: Produksi benih tanaman pangan dan hortikultura dengan metode produksi benih konvensional
+last_modified_at: 2021-12-11
+tags: [produksi-benih, hibrida, komposit, mitra]
 categories: [skins]
 ---
 
