@@ -1,6 +1,6 @@
 ---
 header_type: "hero"
-header_img : "https://picsum.photos/id/1018/2000/2000"
+header_img : /assets/img/goh-rhy-yan-hTd-y7MBrMg-unsplash.jpg
 title: Produksi Benih
 subtitle: Produksi benih tanaman pangan dan hortikultura dengan metode produksi benih konvensional
 last_modified_at: 2021-12-11
