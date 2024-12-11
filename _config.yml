@@ -100,7 +100,7 @@ navbar:
   - title   : Tentang Kami # Label
     url     : /blog/ # url	
   - title   : Galeri
-    url     : /galeri
+    url     : /categories
   - title   : Layanan Kami
     child   :
       - title : Produksi Benih
