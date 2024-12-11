@@ -1,6 +1,6 @@
 ---
 layout: cloudcategory
-title: Categories
+title: Galeri
 permalink: /categories
 show_breadcrumb   : true
 ---
