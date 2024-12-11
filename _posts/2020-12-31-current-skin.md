@@ -9,20 +9,5 @@ categories: [skins]
 ---
 
 
-This is a demo page showing the different components of Bootstrap and how they look on this site under the current configuration.
-
-
-
-
-{% if page.show_bottomnavs -%}
-{% include components/navbeforeafter.html -%}
-{% endif -%}
-{% if page.show_categories -%}
-{% include components/categories.html-%}
-{% endif -%}
-{% if page.show_tags -%}
-{% include components/tags.html-%}
-{% endif -%}
-
-
-{% include snippets/bootstrapdemo.html  %}
+Panduan Operasional Baku: link
+Form perjanjian produks benih: link
