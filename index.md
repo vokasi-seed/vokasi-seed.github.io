@@ -7,8 +7,6 @@ subtitle: Mitra Produksi Benih Unggul dan Berkualitas
 project_links:
     - url: https://vokasi-seed.github.io/blog/
       label: Produk dan Layanan
-    - url: https://wa.me/6282112333842
-      label: Hubungi Kami
 show_sociallinks  : true
 show_tags         : true
 show_categories   : true
