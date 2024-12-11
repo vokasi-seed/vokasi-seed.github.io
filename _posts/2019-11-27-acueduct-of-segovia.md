@@ -2,7 +2,7 @@
 title: "Sertifikasi Benih"
 subtitle: "Benih Unggul Bersertifikat"
 header_type: splash
-header_img: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Acueducto_Segovia_noche.JPG/1024px-Acueducto_Segovia_noche.JPG"
+header_img: /assets/img/slider-1.JPG"
 categories: [picture]
 tags: [sertifikasi-benih, benih-bersertifikat, BPSP, mitra]
 project_links:
