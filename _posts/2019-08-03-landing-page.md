@@ -1,24 +1,15 @@
 ---
-layout: landingpage
-title: A landing page
-subtitle: With image header
-header_type: image
-header_img: "https://dieghernan.github.io/chulapa/assets/img/site/transparent.png"
-categories: [landing-page]
-tags: [example, demo,layout, guest-author, image]
+title: "Produksi Plantlet"
+subtitle: "Produksi Benih Artifisial"
+header_type: splash
+header_img: /assets/img/slider-1.jpg
+categories: [picture]
+tags: [kultur=jaringan, plantlet, benih-artifisial, bioteknologi, mitra]
+project_links:
+  - url: https://wa.me/6282112333842
+    label: Ajukan Permohonan
 author:
-  name: Octocat
-  avatar: https://github.com/octocat.png
-  location: Pennsylvania, United States
-  links:                
-    - url: https://github.com/github/
-      icon: "fab fa-github"
-    - url: https://twitter.com/github
-      icon: fab fa-twitter
-    - url: https://github.com/facebook
-      icon: "fab fa-facebook"
-    - url: https://www.linkedin.com
-      icon: "fab fa-linkedin"
+  location: "Sukabumi, Indonesia"
 ---
 
-A simple landing page with an image on top. Transparencies (`png`) works better on this combination.
+Pelayanan jasa produksi benih artifisial, embrio rescue, preservasi tanaman
